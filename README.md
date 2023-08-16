@@ -1,7 +1,7 @@
 # GoogleOyunVeUygulamaAkademisi'nin Unity eğtiimindeki ilk oyunu.
-Google Oyun ve Uygulama Akademisi'nin İkinci Projesi
 
-# Elmas Toplayan Robot Oyunu 
+
+# "Renkli Macera: Canlı Bloklar"
 
 ###  Hoş geldin Renkli Macera'ya! Bu eğlenceli oyunumuzda 2 farklı seviyede rengarenk dünyalarda gezineceksin. Yeşil, kırmızı, sarı ve mavi bloklar arasında harika bir yolculuğa çıkacaksın. 
 Ama dikkat et, blokların üstünde dengeni kaybetme, aksi halde canlarını kaybedersin ve oyuna baştan başlamak zorunda kalırsın. Toplamda 3 canın var, yere düşerken veya bloklara çarparken dikkatli olmalısın. 
