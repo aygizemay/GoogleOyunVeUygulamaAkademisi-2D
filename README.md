@@ -1,4 +1,4 @@
-# GoogleOyunVeUygulamaAkademisi-2D-2
+# GoogleOyunVeUygulamaAkademisi'nin Unity eğtiimindeki ilk oyunu.
 Google Oyun ve Uygulama Akademisi'nin İkinci Projesi
 
 # Elmas Toplayan Robot Oyunu 
