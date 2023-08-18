@@ -1,4 +1,5 @@
-# GoogleOyunVeUygulamaAkademisi'nin Unity eğtiimindeki ilk oyunu.
+#Oyun ve Uygulama Akademisi 2021-2022 | Unity Başlangıç Eğitimi (2D Proje)
+(Eğitimdeki haline göre ufak değişiklikler olabilir)
 
 
 # "Renkli Macera: Canlı Bloklar"
